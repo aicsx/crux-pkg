@@ -2,6 +2,8 @@ clipit                         : gtk
 dmenu                          : xorg-libxinerama,xorg-libxft
 girara                         : meson,ninja,gtk3
 gvfs                           : glib,gcr,samba,libgcrypt,polkit,docbook-xsl,libgphoto2,udisks2,meson,ninja,libsoup,libsecret,libcdio-paranoia
+i3-gaps                        : pkg-config,startup-notification,libev,libxkbcommon,pango,xorg-xcb-util,xcb-util-xrm,xorg-xcb-util-cursor,xorg-xcb-util-keysyms,xorg-xcb-util-wm,yajl,cairo,libpcre
+i3status                       : libconfuse,libnl,asciidoc,pulseaudio,yajl
 leafpad                        : gtk,xorg-libxdamage
 libblockdev                    : gparted,nss,cryptsetup,libbytesize,libyaml,ndctl,volume_key,gobject-introspection
 libbytesize                    : python3,python

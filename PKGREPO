@@ -3,6 +3,8 @@ clipit#1.4.4-1.pkg.tar.xz:47032:71a20800de6881f378a5c8af68d183e7:ClipIt is a lig
 dmenu#4.9-1.pkg.tar.xz:17400:343147d7391e6c4a46180fd94b16790c:dynamic menu, originally designed for dwm (with xft support):no:no:no
 girara#0.3.2-1.pkg.tar.xz:51536:4f05d65be2bbdb5ed216c8d300bf34cb:A library that implements a user interface that focuses on simplicity and minimalism.:no:no:no
 gvfs#1.40.0-1.pkg.tar.xz:897908:345bae9431a2952d8ff050bb50cfeb94:A userspace virtual filesystem designed to work with the I/O abstractions of gio (glib):no:no:no
+i3-gaps#4.16.1-1.pkg.tar.xz:331176:3c44a7ac3c68dfcfe6497388624e7e8b:i3 with more features (forked from https //github.com/i3/i3).:no:no:no
+i3status#2.12-1.pkg.tar.xz:42592:c87b8f24b265c0afde4c78532648d98e:is a small program for generating a status bar for i3bar, dzen2, xmobar or similar programs.:no:no:no
 leafpad#0.8.18.1-1.pkg.tar.xz:77348:c3ead09be8ec1266501ba0b600803455:GTK+ based simple text editor.:no:no:no
 libatasmart#git-1.pkg.tar.xz:25432:3abd91a33ec73a7e9a91543a5522648b:a lean, small and clean implementation of an ATA S.M.A.R.T. reading and parsing library:no:no:no
 libblockdev#2.21-1.pkg.tar.xz:207568:29c29a180b85a8147bb9e14ca4106464:A library for manipulating block devices:no:no:no
