@@ -1,15 +1,21 @@
+brother-dcp197c#1.1.3-1.pkg.tar.xz:766772:52053755eede34f212b7ee86d7bd82b1:Brother DCP-197c Printer Driver:no:no:no
+brscan-skey#0.2.4-1.pkg.tar.xz:34716:f294978615d3241d8429df703c2ae152:Brother DCP-197c Scan skey (brscan3):no:no:no
+brscan3#0.2.13-1.pkg.tar.xz:54928:cedffc9f92a133e121ac21e39c728afa:Brother DCP-197C and Compatible Scan driver:no:no:no
 chrpath#RELEASE_0_16-1.pkg.tar.xz:7928:404f43cf1b1cbfc15c519c7c9dcea58e:chrpath allows you to modify the dynamic library load path (rpath) of compiled programs.:no:no:no
 clipit#1.4.4-1.pkg.tar.xz:47032:71a20800de6881f378a5c8af68d183e7:ClipIt is a lightweight GTK+ clipboard manager.:no:no:no
 dmenu#4.9-1.pkg.tar.xz:17400:343147d7391e6c4a46180fd94b16790c:dynamic menu, originally designed for dwm (with xft support):no:no:no
+fox#1.6.57-1.pkg.tar.xz:3813576:0e306bd154e3099d7e20a738b90ad06f:FOX is a C++ based Toolkit for developing Graphical User Interfaces easily and effectively.:no:no:no
+geany#1.34.1-1.pkg.tar.xz:2056180:037800b7e49e7ea56e4ed34a5bb0b045:gtk2 text editor with syntax highlighting:no:no:no
 girara#0.3.2-1.pkg.tar.xz:51536:4f05d65be2bbdb5ed216c8d300bf34cb:A library that implements a user interface that focuses on simplicity and minimalism.:no:no:no
 gvfs#1.40.0-1.pkg.tar.xz:897908:345bae9431a2952d8ff050bb50cfeb94:A userspace virtual filesystem designed to work with the I/O abstractions of gio (glib):no:no:no
 i3-gaps#4.16.1-1.pkg.tar.xz:331176:3c44a7ac3c68dfcfe6497388624e7e8b:i3 with more features (forked from https //github.com/i3/i3).:no:no:no
 i3status#2.12-1.pkg.tar.xz:42592:c87b8f24b265c0afde4c78532648d98e:is a small program for generating a status bar for i3bar, dzen2, xmobar or similar programs.:no:no:no
-leafpad#0.8.18.1-1.pkg.tar.xz:77348:c3ead09be8ec1266501ba0b600803455:GTK+ based simple text editor.:no:no:no
+leafpad#0.8.18.1-1.pkg.tar.xz:77380:c48b157412f90cf167d505136c39608b:GTK+ based simple text editor.:no:no:no
 libatasmart#git-1.pkg.tar.xz:25432:3abd91a33ec73a7e9a91543a5522648b:a lean, small and clean implementation of an ATA S.M.A.R.T. reading and parsing library:no:no:no
 libblockdev#2.21-1.pkg.tar.xz:207568:29c29a180b85a8147bb9e14ca4106464:A library for manipulating block devices:no:no:no
 libbytesize#1.4-1.pkg.tar.xz:18616:5d7f9b828522ba047b8848a82f9ecf00:A tiny library providing a C "class" for working with arbitrary big sizes in bytes:no:no:no
 libfm#1.3.1-1.pkg.tar.xz:681480:ded959c1978285c07a59c3b0811d9bd1:Library for file management.:no:no:no
+libgusb#0.3.0-1.pkg.tar.xz:51488:53b80bd0abbbad000b9cd4da330e977a:GObject wrappers for libusb1:no:no:no
 libiscsi#1.18.0-1.pkg.tar.xz:139992:07a8364e3a0a9a3097dfe9d1f21f6e60:library for iscsi clients:no:no:no
 libndp#1.7-1.pkg.tar.xz:20076:65afc5cd0a32e7239a16b377720bc907:Library for Neighbor Discovery Protocol:no:no:no
 libstoragemgmt#1.7.3-1.pkg.tar.xz:728412:4bf5f72c9662a4e124caf6aa90719bbe:A library for storage management.:yes:no:no
@@ -24,6 +30,7 @@ nitrogen#1.6.1-1.pkg.tar.xz:151576:63d300c302fb1a40bebad20358d751ec:A background
 numlockx#1.2-1.pkg.tar.xz:3472:48ffebbcf41051ad781dd360879ef22a:This little thingy allows you to start X with NumLock turned on:no:no:no
 pcmanfm#1.3.1-1.pkg.tar.xz:269652:1aafb7bd9d6a3cc2d42e39bc072450b6:Fast and lightweight file manager.:no:yes:no
 polkit#0.115-1.pkg.tar.xz:155524:5bfbb9c4cc3646cfa1511899bb94010e:Application development toolkit for controlling system-wide privileges:yes:no:no
+simple-scan#git-1.pkg.tar.xz:777800:65c36b6304de46d2ec209f0b1469a47b:Simple Scanning Utility:no:no:no
 udisks#2.8.2-1.pkg.tar.xz:1068516:2c27fb018ebcfd166c86bb86b3309844:D-Bus interfaces and tools for querying and manipulating storage devices:no:no:no
 viewnior#1.7-1.pkg.tar.xz:122088:b1cab93efd63d1bc1900802b56bb4233:Viewnior is a fast and simple image viewer for GNU/Linux.:no:no:no
 volume_key#0.3.12-1.pkg.tar.xz:151560:20b8532ebd3e9169a9812b89c0b74a9a:A library for manipulating storage volume encryption keys and storing them separately from volumes to handle forgotten passphrases, and the associated command-line tool:no:no:no
@@ -31,4 +38,5 @@ volumeicon#0.5.1-1.pkg.tar.xz:36180:4ccf6c4fdbddd4c315f5d651f97f2c6f:Lightweight
 weechat#2.4-1.pkg.tar.xz:1538972:7b40e1990e7409ca897d4c5b0e629dce:the extensible chat client.:no:no:no
 xarchiver#0.5.4-1.pkg.tar.xz:195844:e9f89cd2038888f6bf3672919ca1c562:A lightweight graphical archive manager:no:no:no
 xdg-user-dirs#0.17-1.pkg.tar.xz:32640:b775997f9619d39d76e0657c2866daec:xdg-user-dirs is a tool to help manage "well known" user directories like the desktop folder and the music folder. It also handles localization (i.e. translation) of the filenames.:no:no:no
+xfe#1.43.1-1.pkg.tar.xz:1559640:f47deea0383eb5e249cb95da7451a2fb:X File Explorer (Xfe) is an MS-Explorer or Commander like file manager for X.:no:no:no
 zathura#0.4.3-1.pkg.tar.xz:140196:7e4f35164b5a6fc1d55064323f30cf2c:A highly customizable and functional document viewer.:no:no:no
