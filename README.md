@@ -1,4 +1,4 @@
-# ax crux-pkg
+# ax - crux pkg
 
 This repo is personal collection of crux pkg.
 
