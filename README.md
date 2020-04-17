@@ -1,6 +1,8 @@
 # ax - crux pkg
 
 This repo is personal collection of crux pkg.
+You can view it on:
+https://aicsx.github.io/crux-pkg/
 
 Steps:
 - Modify and add repo in /etc/pkg-get.conf
